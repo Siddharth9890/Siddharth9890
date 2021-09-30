@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth9890&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth9890" /> </p>
 
-- 🔭 I’m currently working on **personal website**
+- 🔭 My personal website link[https://siddharth9890.pages.dev]
 
 - 🌱 I’m currently learning **React,React Native,Databases**
 
