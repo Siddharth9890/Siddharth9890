@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
 <h3 align="center">A computer passionate from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth9890&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth9890" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth9890&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth9890" /> </p> -->
 
 - 🔭 My [personal website](https://siddharth9890.pages.dev/)
 
