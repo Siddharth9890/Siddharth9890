@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,React Native,Databases**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Siddharth9890?tab=repositories)
+- 👨‍💻 All of my projects code are available at [github](https://github.com/Siddharth9890?tab=repositories)
 
 - 📫 How to reach me **siddharth.a9890@gmail.com**
 
