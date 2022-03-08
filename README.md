@@ -12,7 +12,7 @@
 - 📫 How to reach me **siddharth.a9890@gmail.com**
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddharth9890&theme=dracula&hide_border=true)
+
 
 
 ## Stats📈
