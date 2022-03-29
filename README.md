@@ -1,23 +1,29 @@
-<h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
-<h3 align="center">A computer passionate from India</h3>
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  
+:heart: Programming | :black_heart: React | 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth9890&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth9890" /> </p> -->
+I am a MERN Stack Developer. I love Web development and =Machine learning and more ... 🙏 
 
-- 🔭 My [personal website](https://siddharth9890.pages.dev/)
+  <img align="right" alt="GIF" src="https://media.boingboing.net/wp-content/uploads/2015/09/coffee_in_rain_by_kirokaze-d98qb8z.gif" width="450px" height="250px" />
 
-- 🌱 I’m currently learning **Data structures and algorithms,Databases**
-
-- 👨‍💻 All of my projects code are available at [github](https://github.com/Siddharth9890?tab=repositories)
-
-- 📫 How to reach me **siddharth.a9890@gmail.com**
-
-
-
+- 👨🏽‍💻 I build things for the web that could help people in their day to day life;
+- 🌱 I’m currently learning Data structures and algorithms and databases ; 
+- 💼 I’m pursuing a Bachelor's degree in Computer Science;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via siddharth.a9890@gmail.com to reach me.
+<!-- - 📝 See my [Resume]() to get more info. -->
 
 
-## Stats📈
+<br/>
+
+
+
+
+
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some Stats ?
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddharth9890&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Siddharth9890" /> 
+
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Siddharth9890&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Siddharth9890" />
 
 
@@ -30,4 +36,5 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
+---------
+Thank You ✌
