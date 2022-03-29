@@ -2,7 +2,7 @@
   
 :heart: Programming | :black_heart: React | 
 
-I am a MERN Stack Developer. I love Web development and =Machine learning and more ... 🙏 
+I am a MERN Stack Developer. I love Web development and Machine learning and more ... 🙏 
 
   <img align="right" alt="GIF" src="https://media.boingboing.net/wp-content/uploads/2015/09/coffee_in_rain_by_kirokaze-d98qb8z.gif" width="450px" height="250px" />
 
