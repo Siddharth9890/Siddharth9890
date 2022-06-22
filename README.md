@@ -1,17 +1,17 @@
 ### 👋 Hello World !  
   
-:heart: Programming | :black_heart: React | 
+:heart: Programming 
 
-I am a MERN Stack Developer. I love Web development and Machine learning and more ... 🙏 
+I am a MERN Stack Developer. I love Web development,System design,Machine learning. 
 
   <img align="right" alt="GIF" src="https://media.boingboing.net/wp-content/uploads/2015/09/coffee_in_rain_by_kirokaze-d98qb8z.gif" width="450px" height="250px" />
 
 - 👨🏽‍💻 I build things for the web that could help people in their day to day life;
-- 🌱 I’m currently learning Data structures and algorithms and databases ; 
+- 🌱 I’m currently learning Data structures and algorithms and system design; 
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via siddharth.a9890@gmail.com to reach me.
-<!-- - 📝 See my [Resume]() to get more info. -->
+- 📝 See my [Resume](https://siddharth9890.pages.dev/static/media/Siddharth-Singh-resume.6f294f241c61fd6909e9.pdf) to get more info.
 
 
 <br/>
