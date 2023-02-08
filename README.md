@@ -10,7 +10,7 @@ I am a Full Stack Developer. I love Web development,System design.
 
 #### ***Know me 😄***
 
-- *🧑🏻‍💻 I’m currently working on an [`Cs Tracker.`](https://cs-tracker.vercel.app/)*
+- *🧑🏻‍💻 I’m currently working on an [`Personal Projects.`](https://github.com/Siddharth9890)*
 - *🎯 Focused on `Data Structures and Algorithms` these days.*
 - *📜 Take a look on my past projects [`here.`](https://github.com/Siddharth9890/)*
 - *💬 Interested in `JavaScript, React.Js, Node.Js, Java, DSA`.*
@@ -46,9 +46,6 @@ I am a Full Stack Developer. I love Web development,System design.
     </a> 
         <a href="https://www.npmjs.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.heroku.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/></code> 
     </a> 
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="git" width="50" height="50"/></code> 
